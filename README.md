@@ -1,1 +1,1 @@
-# Learning how to host my django project on aws
+# Learning how to host my django api project on aws
